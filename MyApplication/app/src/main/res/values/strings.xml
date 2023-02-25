@@ -1,0 +1,24 @@
+<resources>
+
+    <string name="app_name">Android Simple Views</string>
+    <string name="username">for insert name click edit profile button</string>
+    <string name="Edit_profile">Edit profile</string>
+    <string name="View_Website">View Website</string>
+    <string name="Field_of_Study">Field of Study</string>
+    <string name="Mechanic">Mechanic</string>
+    <string name="Electrical">Electrical </string>
+    <string name="Computer">Computer</string>
+    <string name="Accounting">Accounting</string>
+    <string name="Architecture">Architecture</string>
+    <string name="Province_City">Province, City</string>
+    <string name="Tehran_tehran">Tehran, tehran</string>
+    <string name="Gilan_rasht">Gilan, rasht</string>
+    <string name="Markazi_arak">Markazi, arak</string>
+    <string name="save">save</string>
+    <string name="editprofilehint">please enter full name ...</string>
+    <string name="gender">Enter your gender</string>
+    <string name="male">Male</string>
+    <string name="Female">Female</string>
+    <string name="Description">Description</string>
+    <string name="PleaseenterDescription">Please enter Description ...</string>
+</resources>

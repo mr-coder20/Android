@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <string name="app_name">آموزش ویو های اندروید</string>
+    <string name="username">برای انتخاب نام روی ویرایش پروفایل کلیک کنید</string>
+    <string name="Edit_profile">ویرایش پروفایل</string>
+    <string name="View_Website">بازدید وبسایت</string>
+    <string name="Field_of_Study">رشته تحصیلی</string>
+    <string name="Mechanic">مکانیک</string>
+    <string name="Electrical">الکترونیک</string>
+    <string name="Computer">کامپیوتر</string>
+    <string name="Accounting">حسابداری</string>
+    <string name="Architecture">معماری</string>
+    <string name="Province_City">استان، شهرستان</string>
+    <string name="Tehran_tehran">تهران، تهران</string>
+    <string name="Gilan_rasht">گیلان، رشت</string>
+    <string name="Markazi_arak">مرکزی ،اراک</string>
+    <string name="save">ذخیره</string>
+    <string name="editprofilehint">لطفا نام و نام خانوادگی را وارد کنید ...</string>
+    <string name="gender">جنسیت خودرا وارد کنید</string>
+    <string name="male">مرد</string>
+    <string name="Female">زن</string>
+    <string name="Description">توضیحات</string>
+    <string name="PleaseenterDescription">لطفا توضیحات خود را وارد کنید ...</string>
+
+</resources>

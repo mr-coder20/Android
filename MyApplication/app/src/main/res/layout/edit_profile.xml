@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".edit_profile"
+    android:orientation="vertical"
+    android:padding="14dp"
+    >
+
+    <EditText
+
+        android:id="@+id/txt_edit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/editprofilehint"></EditText>
+
+    <TextView
+
+        android:layout_width="383dp"
+        android:layout_height="86dp"
+        android:gravity="bottom|center_horizontal"
+        android:text="@string/gender"></TextView>
+
+    <RadioGroup
+
+        android:id="@+id/gender_radio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <RadioButton
+            android:id="@+id/male_radio"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/male"></RadioButton>
+
+        <RadioButton
+
+            android:id="@+id/female_raidio"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Female"></RadioButton>
+
+
+
+
+    </RadioGroup>
+
+    <EditText
+
+        android:id="@+id/txt_edit_description"
+        android:layout_width="383dp"
+        android:layout_height="43dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:hint="@string/PleaseenterDescription" />
+    <Button
+
+        android:id="@+id/save_edit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/key_button"
+        android:text="@string/save" />
+</LinearLayout>
